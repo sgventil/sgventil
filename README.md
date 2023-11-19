@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [boat-bnb](https://github.com/sgventil/boat-bnb)
 
-- 🌱 I’m currently learning **Ruby on Rails and Javascript**
+- 🌱 I’m going even further on **Ruby on Rails Html Css Sassy and Javascript**
 
 - 💬 Ask me about **Biohacking**
 
