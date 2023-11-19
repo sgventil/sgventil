@@ -1,4 +1,4 @@
-<h1 align="center" color="blue">Hello World! 👋</h1>
+<h1 align="center" class="blue-text">Hello World! 👋</h1>
 <h3 align="center">A passionate fullstack developer from Switzerland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgventil&row=1" alt="sgventil" /></a> </p>
