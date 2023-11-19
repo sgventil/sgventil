@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue">¬¬ Hello World! 👋 ¬¬</h1>
+<h1 align="center" style="color: blue"># Hello World! 👋 #</h1>
 <h3 align="center">** I am Nando, a passionate web developer based in Switzerland **</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgventil&row=1" alt="sgventil" /></a> </p>
